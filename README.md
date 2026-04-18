@@ -151,11 +151,7 @@ outputs/
 
 ---
 
-## 🏆 Hackathon Tips
 
-* Use short videos (10–30 sec)
-* Keep demo fast and smooth
-* Focus on working pipeline + UI
 
 ---
 
